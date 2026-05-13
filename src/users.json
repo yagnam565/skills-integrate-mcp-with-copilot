@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "admin@mergington.edu",
+      "password": "adminpass",
+      "role": "admin",
+      "name": "Principal Morgan"
+    },
+    {
+      "email": "teacher@mergington.edu",
+      "password": "teachpass",
+      "role": "faculty",
+      "name": "Ms. Rivera"
+    },
+    {
+      "email": "student@mergington.edu",
+      "password": "studentpass",
+      "role": "student",
+      "name": "Jordan"
+    }
+  ]
+}
